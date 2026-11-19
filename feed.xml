@@ -3,10 +3,36 @@
     <title>uran</title>
     <link href="https://[miyazaki-koji.github.io/new-uran](miyazaki-koji.github.io/new/uran)/feed.xml" rel="self" />
     <link href="https://[miyazaki-koji.github.io/new-uran](miyazaki-koji.github.io/new/uran)" />
-    <updated>1970-01-01T09:00:00+09:00</updated>
+    <updated>2026-11-19T16:52:23+09:00</updated>
     <author>
         <name>miyazaki-koji</name>
     </author>
     <id>https://[miyazaki-koji.github.io/new-uran](miyazaki-koji.github.io/new/uran)</id>
 
+    <entry>
+        <title>ウランのホームページ</title>
+        <author>
+            <name>miyazaki-koji</name>
+        </author>
+        <link href="https://[miyazaki-koji.github.io/new-uran](miyazaki-koji.github.io/new/uran)/urannohomupezi/"/>
+        <id>https://[miyazaki-koji.github.io/new-uran](miyazaki-koji.github.io/new/uran)/urannohomupezi/</id>
+
+        <updated>2026-11-18T15:22:09+09:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    ウランは茶色のトイプードルです。凄く我儘ですが凄くかわいい子です。今回、初めてPubliiを知ったので、お勉強でウランのホームページを作ることにしました。 これがウランです。2Kありません。キャップにはいってしまいます。 次のページへ
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>ウランは茶色のトイプードルです。凄く我儘ですが凄くかわいい子です。今回、初めてPubliiを知ったので、お勉強でウランのホームページを作ることにしました。<figure class="post__image"><img loading="lazy"  src="https://[miyazaki-koji.github.io/new-uran](miyazaki-koji.github.io/new/uran)/media/posts/1//01.jpg" alt="" width="236" height="320" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://[miyazaki-koji.github.io/new-uran](miyazaki-koji.github.io/new/uran)/media/posts/1//responsive/01-xs.jpg 640w ,https://[miyazaki-koji.github.io/new-uran](miyazaki-koji.github.io/new/uran)/media/posts/1//responsive/01-sm.jpg 768w ,https://[miyazaki-koji.github.io/new-uran](miyazaki-koji.github.io/new/uran)/media/posts/1//responsive/01-md.jpg 1024w ,https://[miyazaki-koji.github.io/new-uran](miyazaki-koji.github.io/new/uran)/media/posts/1//responsive/01-lg.jpg 1366w ,https://[miyazaki-koji.github.io/new-uran](miyazaki-koji.github.io/new/uran)/media/posts/1//responsive/01-xl.jpg 1600w ,https://[miyazaki-koji.github.io/new-uran](miyazaki-koji.github.io/new/uran)/media/posts/1//responsive/01-2xl.jpg 1920w"></figure>
+<p>これがウランです。2Kありません。キャップにはいってしまいます。</p>
+<p><a href="#non-existing-page-with-id-2" title="ウランのホームページ" target="_blank" rel="noopener noreferrer">次のページへ</a></p>
+<p> </p>
+<p> </p>
+<p>　</p>
+<p>　</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
