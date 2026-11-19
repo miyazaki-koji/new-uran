@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://[miyazaki-koji.github.io/new-uran](https://miyazaki-koji.github.io/new/uran)/sitemap.xml
